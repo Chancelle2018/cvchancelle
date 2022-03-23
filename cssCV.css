@@ -1,0 +1,43 @@
+body{
+    background-color:#BE8ABF;
+
+}
+div{
+    background-color: purple;
+    color: white;
+}
+.conteneur{
+    width: 80%;
+    background-color:#EA9ABB;
+}
+.conteneur2{
+    width: 80%;
+    background-color: #9D84B7;
+}
+
+
+.conteneur3{
+    width: 80%;
+    background-color: hotpink;
+}
+
+h1{
+    width: 80%;
+    background-color: #6E2142;
+}
+
+
+
+
+#cp{
+    margin: 0 auto;
+}
+.gras{
+    font-weight: black;
+}
+.fondjaune{
+    background-color: yellow;
+}
+.noir{
+    color: black;
+}
